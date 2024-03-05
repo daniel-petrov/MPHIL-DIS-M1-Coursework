@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Section A}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Dataset A: Exploration, Dimensionality Reduction and Clustering}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Dataset B: Missing Labels and Duplicated Observations}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Dataset C: Missing Data and Outliers}{7}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Section B}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Baseline Dataset: Supervised Learning and Random Forests}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Baseline Dataset: Unsupervised Learning - Clustering}{15}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Appendix}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}README}{18}{subsection.3.1}%
